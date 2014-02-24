@@ -1,0 +1,1 @@
+This repository contains the solutions I wrote to some of the problems from Project Euler. Each file name indicates the problem that it solves. I also included an implementation of the Sieve of Eratosthenes that I wrote because many of the problems are centered around dealing with prime numbers.
